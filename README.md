@@ -1,6 +1,7 @@
 **Employee Attrition Prediction using Machine Learning**
 
-Project Overview This project focuses on predicting employee attrition using machine learning techniques. The aim is to help organizations understand employee turnover patterns by analyzing demographic, job-related, and satisfaction-related factors. Predicting attrition in advance can assist HR teams in improving employee retention strategies.
+**Project Overview**
+This project focuses on predicting employee attrition using machine learning techniques. The aim is to help organizations understand employee turnover patterns by analyzing demographic, job-related, and satisfaction-related factors. Predicting attrition in advance can assist HR teams in improving employee retention strategies.
 
 **Dataset Source**
 The dataset used in this project is the IBM HR Analytics Employee Attrition Dataset, which is publicly available on Kaggle. It contains employee information such as age, department, job role, income, job satisfaction, and attrition status.
